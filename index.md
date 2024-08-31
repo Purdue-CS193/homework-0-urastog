@@ -15,9 +15,6 @@ My Favourite things about CS193
 - Good introduction lass that is essential
 - Chill TA's
 - Provides detailed and easy to understand instructions
-
-
-[Link](url) and ![Image]([src](https://wallpapercave.com/wp/wp4318014.jpg))
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
